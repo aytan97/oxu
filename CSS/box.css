@@ -1,0 +1,32 @@
+.container {
+    color: white;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.border-blue {
+    border: 1px solid blue;
+}
+.border-green {
+    border: 1px solid green;
+}
+.border-red {
+    border: 1px solid red;
+}
+
+.text-style {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    padding-top: 90px;
+}
